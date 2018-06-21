@@ -1,0 +1,23 @@
+body{
+    color:white;
+    background-color: black;
+    text-align: center;
+
+}
+img{
+width:75%;
+border:5px solid teal;
+
+}
+p{
+    font-size: 60px;
+}
+
+ .content img{
+width:20%;
+ }
+
+ .title{
+     margin:0 auto;
+     background-color: goldenrod;
+ }
